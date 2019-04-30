@@ -1,0 +1,14 @@
+C:\development\webapinetcoreangular7crud\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+C:\development\webapinetcoreangular7crud\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+C:\development\webapinetcoreangular7crud\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+C:\development\webapinetcoreangular7crud\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+C:\development\webapinetcoreangular7crud\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+C:\development\webapinetcoreangular7crud\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+C:\development\webapinetcoreangular7crud\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+C:\development\webapinetcoreangular7crud\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+C:\development\webapinetcoreangular7crud\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+C:\development\webapinetcoreangular7crud\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+C:\development\webapinetcoreangular7crud\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+C:\development\webapinetcoreangular7crud\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+C:\development\webapinetcoreangular7crud\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+C:\development\webapinetcoreangular7crud\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
